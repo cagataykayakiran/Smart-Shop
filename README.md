@@ -96,7 +96,7 @@ This project is an e-commerce backend system built with Spring Boot. It handles 
 ### Clone the Repository
 ```bash
 git clone https://github.com/cagataykayakiran/Smart-Shop
-cd E-Commerce-Backend-Project
+cd Smart-Shop
 ````
 
 ## Build the Project
